@@ -2,8 +2,8 @@
 A few customisation options for beehives including amount of honey a hive can hold, time it takes to generate the honey and disabling the proximity build restrictions
 
 ## Manual Installation
-To install this mod, you need to have BepInEx. After installing BepInEx, extract BeehiveUtilities.dll into games install **"\Valheim\BepInEx\plugins"**
-IF you're getting an error in console when enabling "Show Alternate Text" or "Display Bee Status On Hover" extract all the files in **core** into **"\Valheim\BepInEx\core"**
+- To install this mod, you need to have BepInEx. After installing BepInEx, extract BeehiveUtilities.dll into games install **"\Valheim\BepInEx\plugins"**
+- IF you're getting an error in console when enabling "Show Alternate Text" or "Display Bee Status On Hover" extract all the files in **core** into **"\Valheim\BepInEx\core"**
 
 ## Config
 Before the config file is generated, you must run the game with the mod installed. The config file is located at **"\Valheim\BepInEx\config\smallo.mods.beehiveutilities.cfg"**
