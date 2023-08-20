@@ -257,16 +257,15 @@ paket-files/
 .cr/
 
 # Python Tools for Visual Studio (PTVS)
-__pycache__/
-*.pyc
-ymapmover/fullchangelog.rtf
-/BeehiveUtilities/Properties/IgnoreAccessModifiers.cs
-/BeehiveUtilities/Environment.props
-/BeehiveUtilities/packages.config
-/BeehiveUtilityUnity
+
 /BeehiveUtilities/Package
+/.vs/BeehiveUtilities/FileContentIndex
+/.vs
+/BeehiveUtilities/Properties/IgnoreAccessModifiers.cs
+/BeehiveUtilityUnity
+/packages
 /DoPrebuild.props
 /environment.props
-/BeehiveUtilities.sln
+/publish.ps1
+/BeehiveUtilities/packages.config
 *.ps1
-/BeehiveUtilities/libraries
