@@ -268,3 +268,5 @@ ymapmover/fullchangelog.rtf
 /DoPrebuild.props
 /environment.props
 /BeehiveUtilities.sln
+*.ps1
+/BeehiveUtilities/libraries
