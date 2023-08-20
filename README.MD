@@ -25,6 +25,8 @@ Before the config file is generated, you must run the game with the mod installe
 If you have any suggestions, feel free to let me know!
 
 ## Changelog
+#### v1.1.2;
+* Fixed bug when "Show Honey Amount" is set to true and "Display Bee Status On Hover" is set to false, interacting with beehive to check status wouldn't show it under certain cirumstances.
 
 #### v1.1.1;
 * Updated to be compatible with latest version of Valheim
