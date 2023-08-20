@@ -19,7 +19,7 @@ namespace BeehiveUtilities
     {
         public const string PluginGUID = "smallo.mods.beehiveutilities";
         public const string PluginName = "BeehiveUtilities";
-        public const string PluginVersion = "1.1.1";
+        public const string PluginVersion = "1.1.2";
 
         private static ConfigEntry<bool> EnableMod;
         private static ConfigEntry<bool> ProximityCheck;
