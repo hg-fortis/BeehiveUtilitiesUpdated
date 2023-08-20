@@ -127,6 +127,11 @@ namespace BeehiveUtilities
                     character.Message(MessageHud.MessageType.Center, ProximityCheck.Value ? $"{__instance.m_happyText}" : $"{__instance.m_freespaceText}");
                     return;
                 }
+                else if (!BiomeCheck.Value && !BeeStatus.Value && ShowHoneyAmount.Value)
+                {
+                    character.Message(MessageHud.MessageType.Center, __instance.m_areaText);
+                    return;
+                }
             }
 
             if (!EnvMan.instance.IsDaylight() && (BeeStatus.Value || ShowHoneyAmount.Value))
