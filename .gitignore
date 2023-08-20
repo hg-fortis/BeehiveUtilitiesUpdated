@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BeehiveUtilities/Package
+/.vs/BeehiveUtilities/FileContentIndex
+/.vs
+/BeehiveUtilities/Properties/IgnoreAccessModifiers.cs
+/BeehiveUtilityUnity
+/packages
+/DoPrebuild.props
+/environment.props
+/publish.ps1
+/BeehiveUtilities/packages.config
