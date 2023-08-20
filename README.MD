@@ -45,7 +45,4 @@ If you have any suggestions, feel free to let me know!
 * Initial release
 
 ## Images
-
-![Showing](https://fivem.fail/gta5/Ped/SetIkTarget/c7X1yAKfOe.png)
-
 [Discord Support](https://discord.gg/pTGSu8R7DW)
